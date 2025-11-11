@@ -1,5 +1,5 @@
 # Ignore data folder and heavy pptx files
-data/
+data/*
 slides/*.pptx
 
 # Byte-compiled / optimized / DLL files
